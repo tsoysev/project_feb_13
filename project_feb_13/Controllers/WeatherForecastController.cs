@@ -37,3 +37,5 @@ namespace project_feb_13.Controllers
 
 
 //pr açmak için oluþturukdu
+
+// yeni biþeyler yazýyorum þu an
