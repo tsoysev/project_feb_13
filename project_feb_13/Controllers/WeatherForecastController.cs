@@ -34,3 +34,6 @@ namespace project_feb_13.Controllers
 
 
 // yeni proje bu
+
+
+//pr açmak için oluþturukdu
